@@ -29,6 +29,10 @@ public class AnotherWayOf2DArray {
 		int num1array=usa[0].length;
 		System.out.println("# of elemets in 1 array = "+elem1array);
 		
+		//I want to see how many elemt inside my 2 array 
+		int elem2array=usa[1].length;
+		System.out.println("# of elemets in 2 array = "+elem2array);
+		
 		}
 		
 		
